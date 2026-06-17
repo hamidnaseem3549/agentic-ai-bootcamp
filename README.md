@@ -16,7 +16,7 @@ multi-agent architectures, and production AI deployment.
 | Day | Topic | Mini Project | Notes |
 |-----|-------|-------------|-------|
 | 01 | AI Ecosystem & Foundations | Research Assistant | [📝](./day-01-foundations/README.md) |
-| 02 | LangChain Essentials | Learning Assistant | [📝](./day-02-langchain/README.md) |
+| 02 | LangChain Essentials | Learning Assistant | ✅ [📝](./day-02-langchain/README.md) |
 | 03 | RAG Systems | University Assistant | [📝](./day-03-rag/README.md) |
 | 04 | LangGraph Workflows | Report Generator | [📝](./day-04-langgraph/README.md) |
 | 05 | Multi-Agent Systems | AI Team | [📝](./day-05-multiagent/README.md) |
