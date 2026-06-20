@@ -2,10 +2,10 @@
 
 **FAST-NUCES Islamabad | AIM LAB | June 2026**
 
-10-day hands-on bootcamp: autonomous agents, RAG systems,
+10-days hands-on Agentic AI Bootcamp: Autonomous agents, RAG systems,
 multi-agent architectures, and production AI deployment.
 
-**Stack:** Python · Groq · LangChain · LangGraph · CrewAI
+**Stack:** Python · Groq · LangChain · LangGraph · CrewAI . Prompt Engi
 
 **Tools:** ChromaDB · FastAPI · Docker · n8n · Ollama · AutoGen
 
@@ -15,7 +15,7 @@ multi-agent architectures, and production AI deployment.
 
 | Day | Topic | Mini Project | Notes |
 |-----|-------|-------------|-------|
-| 01 | AI Ecosystem & Foundations | Research Assistant | [📝](./day-01-foundations/README.md) |
+| 01 | AI Ecosystem & Foundations | Research Assistant | ✅ [📝](./day-01-foundations/README.md) |
 | 02 | LangChain Essentials | Learning Assistant | ✅ [📝](./day-02-langchain/README.md) |
 | 03 | RAG Systems | University Assistant | [📝](./day-03-rag/README.md) |
 | 04 | LangGraph Workflows | Report Generator | [📝](./day-04-langgraph/README.md) |
@@ -32,4 +32,4 @@ multi-agent architectures, and production AI deployment.
 > To be added on Day 10
 
 ---
-*Hamid Naseem — Aspring AI-engineer 
+**Hamid Naseem — Aspring AI-Engineer**
