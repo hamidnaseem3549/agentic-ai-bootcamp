@@ -17,8 +17,8 @@ multi-agent architectures, and production AI deployment.
 |-----|-------|-------------|-------|
 | 01 | AI Ecosystem & Foundations | Research Assistant | ✅ [📝](./day-01-foundations/README.md) |
 | 02 | LangChain Essentials | Learning Assistant | ✅ [📝](./day-02-langchain/README.md) |
-| 03 | RAG Systems | University Assistant | [📝](./day-03-rag/README.md) |
-| 04 | LangGraph Workflows | Report Generator | [📝](./day-04-langgraph/README.md) |
+| 03 | Prompt Engineering for Agentic Behavior | Prompting Techniques | ✅ [📝](./day-03-prompt-engineering/README.md) |
+| 04 | Agentic RAG Systems | RAG Pipeline | ✅ [📝](./day-04-agentic-rag/README.md) |
 | 05 | Multi-Agent Systems | AI Team | [📝](./day-05-multiagent/README.md) |
 | 06 | n8n Automation | Business Workflow | [📝](./day-06-n8n/README.md) |
 | 07 | Tool-Using Agents & MCP | Personal Assistant | [📝](./day-07-tools-mcp/README.md) |
