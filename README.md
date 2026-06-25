@@ -13,18 +13,18 @@ multi-agent architectures, and production AI deployment.
 
 ## Daily Progress
 
-| Day | Topic | Mini Project | Notes |
-|-----|-------|-------------|-------|
-| 01 | AI Ecosystem & Foundations | Research Assistant | ✅ [📝](./day-01-foundations/README.md) |
-| 02 | LangChain Essentials | Learning Assistant | ✅ [📝](./day-02-langchain/README.md) |
-| 03 | Prompt Engineering for Agentic Behavior | Prompting Techniques | ✅ [📝](./day-03-prompt-engineering/README.md) |
-| 04 | Agentic RAG Systems | RAG Pipeline | ✅ [📝](./day-04-agentic-rag/README.md) |
-| 05 | Multi-Agent Systems | AI Team | [📝](./day-05-multiagent/README.md) |
-| 06 | n8n Automation | Business Workflow | [📝](./day-06-n8n/README.md) |
-| 07 | Tool-Using Agents & MCP | Personal Assistant | [📝](./day-07-tools-mcp/README.md) |
-| 08 | Local AI & Ollama | Offline Assistant | [📝](./day-08-local-ai/README.md) |
-| 09 | FastAPI + Docker | Production Service | [📝](./day-09-production/README.md) |
-| 10 | Capstone Demo | Full Agent System | [📝](./day-10-capstone/README.md) |
+| Day | Topic | Mini Project | Status | Notes |
+|-----|-------|-------------|--------|-------|
+| 01 | AI Ecosystem & Agentic AI Foundations | Research Assistant | ✅ | [📝](./day-01-foundations/README.md) |
+| 02 | LangChain Essentials — LCEL, Chains, Agents, Router | Learning Assistant | ✅ | [📝](./day-02-langchain/README.md) |
+| 03 | Prompt Engineering for Agentic Behavior | Prompting Techniques | ✅ | [📝](./day-03-prompt-engineering/README.md) |
+| 04 | Agentic RAG — Vanilla, Tool-Augmented, Self-Correcting | RAG Pipeline | ✅ | [📝](./day-04-rag-foundations/README.md) |
+| 05 | LlamaIndex & Vector Databases | RAG with Vector Store | ✅ | [📝](./day-05-llamaindex-vectordb/README.md) |
+| 06 | Multi-Agent Systems — LangGraph, CrewAI, AutoGen | Multi-Agent Pipeline | ✅ | [📝](./day-06-multiagent-systems/README.md) |
+| 07 | LangGraph with Memory — Short-term & Long-term | Memory Agent | ✅ | [📝](./day-07-langgraph-memory/README.md) |
+| 08 | Local AI & Ollama | Offline Assistant | ⏳ | [📝](./day-08-local-ai/README.md) |
+| 09 | FastAPI + Docker — Production Deployment | Production Service | ⏳ | [📝](./day-09-production/README.md) |
+| 10 | Capstone Project Demo | Full Agent System | ⏳ | [📝](./day-10-capstone/README.md) |
 
 ---
 
